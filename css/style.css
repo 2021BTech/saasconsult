@@ -2653,7 +2653,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .menu_one .tracking_btn .er_btn {
   font-size: 16px;
   color: #fff;
-  background: #6754e2;
+  background: #87A922;
   border: 0px;
   padding: 8px 50px;
   margin-top: 0;
@@ -2665,7 +2665,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   margin-right: 10px;
 }
 .menu_one .tracking_btn .er_btn:hover {
-  background: #6754e2;
+  background: #87A922;
 }
 .menu_one .tracking_btn h6 {
   font-size: 12px;
@@ -4083,7 +4083,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 /*====================================================*/
 /*================= Start breadcrumb_area css =================*/
 .breadcrumb_area {
-  background-image: linear-gradient(180deg, rgb(94, 44, 237) 0%, rgb(164, 133, 253) 100%);
+  background: #87A922;
   position: relative;
   z-index: 1;
   padding: 235px 0px 125px;
@@ -4114,7 +4114,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background-size: cover;
 }
 .breadcrumb_area_two .bubble li {
-  background: #5e2ced;
+  background: #87A922;
   opacity: 0.1;
   width: 16px;
   height: 16px;
@@ -4253,7 +4253,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   position: absolute;
   height: 100%;
   width: 100%;
-  background-image: linear-gradient(-140deg, rgb(94, 44, 237) 0%, rgb(128, 55, 218) 100%);
+  background: #87A922;
   opacity: 0.9;
   z-index: -1;
   top: 0;
@@ -8060,9 +8060,9 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   width: 8px;
   height: 8px;
   display: block;
-  background: #9c7bfb;
+  background: #87A922;
   border-radius: 50%;
-  border: 1px solid #9c7bfb;
+  border: 1px solid #87A922;
   margin: 0px 5px;
   transition: all 0.3s linear;
 }
@@ -8077,7 +8077,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .about_content {
-  background-image: linear-gradient(40deg, rgb(94, 44, 237) 0%, rgb(164, 133, 253) 100%);
+  background: #87A922;
   height: 100%;
   color: #fff;
   padding: 100px;
@@ -8095,13 +8095,13 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background: rgb(251, 251, 253);
   box-shadow: 0px 20px 30px 0px rgba(12, 0, 46, 0.1);
   border-radius: 3px;
-  color: #5e2ced;
+  color: #87A922;
   display: inline-block;
   transition: all 0.3s ease;
 }
 .about_btn:hover {
   color: #fff;
-  background: #5e2ced;
+  background: #87A922;
 }
 
 .about_img {
@@ -8178,7 +8178,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   width: 100px;
   height: 100px;
   text-align: center;
-  color: #5e2ced;
+  color: #87A922;
   line-height: 100px;
   font-size: 22px;
   background-color: rgb(251, 251, 253);
@@ -10645,14 +10645,14 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   content: "";
   width: 0;
   height: 1px;
-  background: #5e2ced;
+  background: #87A922;
   position: absolute;
   left: 0;
   bottom: 0;
   transition: width 0.2s linear;
 }
 .faq_tab .nav-item .nav-link.active {
-  color: #5e2ced;
+  color: #87A922;
 }
 .faq_tab .nav-item .nav-link.active:before {
   width: 100%;
@@ -10670,7 +10670,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background: transparent;
 }
 .faq_content .tab-pane .card .card-header .btn {
-  color: #5e2ced;
+  color: #87A922;
   display: block;
   width: 100%;
   text-align: left;
@@ -11258,13 +11258,13 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .contact_form_box .btn_three {
   min-width: 180px;
   text-align: center;
-  background: #5e2ced;
-  border-color: #5e2ced;
+  background: #87A922;
+  border-color: #87A922;
   margin-top: 0px;
 }
 .contact_form_box .btn_three:hover {
   background: transparent;
-  color: #5e2ced;
+  color: #87A922;
 }
 
 .mapbox2 {
@@ -12657,7 +12657,7 @@ p span {
 .blog_content .post_date h2 {
   font: 700 30px/20px "Poppins", sans-serif;
   margin-bottom: 0px;
-  color: #5e2ced;
+  color: #87A922;
   padding-top: 5px;
 }
 .blog_content .post_date span {
@@ -12671,7 +12671,7 @@ p span {
   font-size: 15px;
 }
 .blog_content h5:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 .blog_content .learn_btn_two {
   font: 400 14px "Poppins", sans-serif;
@@ -12684,10 +12684,10 @@ p span {
   font-size: 14px;
 }
 .blog_content .learn_btn_two:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 .blog_content .learn_btn_two:hover:before {
-  background: #5e2ced;
+  background: #87A922;
 }
 
 .entry_post_info {
@@ -12710,9 +12710,9 @@ p span {
   box-shadow: none;
 }
 .blog_single .blockquote {
-  color: #5e2ced;
+  color: #87A922;
   font-style: italic;
-  border-left: 4px solid #5e2ced;
+  border-left: 4px solid #87A922;
   padding-left: 35px;
 }
 
@@ -12729,7 +12729,7 @@ p span {
   padding-right: 12px;
 }
 .post_share a:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 .post_share a + a {
   margin-left: 15px;
@@ -13737,12 +13737,12 @@ p span {
   transition: all 0.2s linear;
 }
 .shop_page_number li .page-numbers:hover {
-  border-color: #5e2ced;
-  color: #5e2ced;
+  border-color: #87A922;
+  color: #87A922;
 }
 .shop_page_number li .page-numbers.current {
-  background: #5e2ced;
-  border-color: #5e2ced;
+  background: #87A922;
+  border-color: #87A922;
   color: #fff;
 }
 
@@ -13779,8 +13779,8 @@ p span {
 }
 .shop_list_item .single_product_item .single_pr_details .pr_button .cart_btn:hover {
   color: #fff;
-  background: #5e2ced;
-  border-color: #5e2ced;
+  background: #87A922;
+  border-color: #87A922;
 }
 .shop_list_item .single_product_item .single_pr_details .pr_button a {
   width: 50px;
@@ -13799,8 +13799,8 @@ p span {
 }
 .shop_list_item .single_product_item .single_pr_details .pr_button a:hover {
   color: #fff;
-  background: #5e2ced;
-  border-color: #5e2ced;
+  background: #87A922;
+  border-color: #87A922;
 }
 
 .product_details_area .product_slider {
@@ -13839,7 +13839,7 @@ p span {
   text-align: right;
 }
 .pr_details .ratting .star-rating {
-  color: #5e2ced;
+  color: #87A922;
   line-height: 12px;
 }
 .pr_details .ratting .star-rating:before {
@@ -13868,7 +13868,7 @@ p span {
 }
 .pr_details .stock {
   font: 400 16px "Poppins", sans-serif;
-  color: #5e2ced;
+  color: #87A922;
   vertical-align: middle;
   padding-top: 20px;
   display: inline-block;
@@ -13876,7 +13876,7 @@ p span {
 .pr_details .stock:before {
   content: "\e64c";
   font-family: "themify";
-  color: #5e2ced;
+  color: #87A922;
   padding-right: 10px;
 }
 .pr_details p {
@@ -13906,7 +13906,7 @@ p span {
   padding: 0px 15px 0px 0px;
 }
 .pr_details .product-qty .ar_top:hover, .pr_details .product-qty .ar_down:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 .pr_details .product-qty .ar_top {
   top: 3px;
@@ -15475,8 +15475,8 @@ input[type=text] {
   padding: 15px 33px;
 }
 .split_app_content .s_app_btn {
-  background: #5f28fb;
-  border-color: #5f28fb;
+  background: #87A922;
+  border-color: #87A922;
   align-items: center;
   display: inline-flex;
 }
@@ -15486,16 +15486,16 @@ input[type=text] {
 }
 .split_app_content .s_app_btn + .s_app_btn {
   background: transparent;
-  color: #5f28fb;
+  color: #87A922;
   margin-left: 16px;
 }
 .split_app_content .s_app_btn + .s_app_btn:hover {
-  background: #5f28fb;
+  background: #87A922;
   color: #fff;
 }
 .split_app_content .s_app_btn:hover {
   background: transparent;
-  color: #5f28fb;
+  color: #87A922;
 }
 
 .split_title {
@@ -15522,7 +15522,7 @@ input[type=text] {
   position: relative;
 }
 .web_skill_content .skillbar-bg .custom-skillbar {
-  background: #7a4cfa;
+  background: #87A922;
   height: 100%;
   position: absolute;
   left: 0;
@@ -16988,7 +16988,7 @@ a .h_head:hover {
   border: 2px solid #c8d4fa;
   font-size: 16px;
   font-weight: 500;
-  color: #4e78f4;
+  color: #87A922;
   font-family: "Poppins", sans-serif;
   border-radius: 45px;
   line-height: 26px;
@@ -16998,10 +16998,10 @@ a .h_head:hover {
   transition: all 0.3s linear;
 }
 .er_btn:hover {
-  background: #4e78f4;
-  border-color: #4e78f4;
+  background: #87A922;
+  border-color: #87A922;
   box-shadow: 0px 20px 30px 0px rgba(45, 93, 237, 0.1);
-  color: #fff;
+  color: #000;
 }
 
 .erp_testimonial_info {
@@ -17016,7 +17016,7 @@ a .h_head:hover {
   transition: all 0.2s linear;
 }
 .erp_testimonial_info .owl-nav button.owl-prev:hover, .erp_testimonial_info .owl-nav button.owl-next:hover {
-  color: #4e78f4;
+  color: #87A922;
 }
 .erp_testimonial_info .owl-nav button.owl-prev {
   left: -50px;
@@ -17133,15 +17133,15 @@ a .h_head:hover {
 }
 .erp_action_content p span {
   font-weight: 700;
-  color: #4e78f4;
+  color: #87A922;
 }
 .erp_action_content .er_btn {
   margin-top: 40px;
 }
 
 .er_btn_two {
-  background: #4e78f4;
-  border-color: #4e78f4;
+  background: #87A922;
+  border-color: #87A922;
   color: #fff;
   box-shadow: 0px 20px 30px 0px rgba(45, 93, 237, 0.1);
 }
@@ -17149,7 +17149,7 @@ a .h_head:hover {
   box-shadow: none;
   border-color: #c8d4fa;
   background: transparent;
-  color: #4e78f4;
+  color: #87A922;
 }
 
 .erp_customer_logo_area {
@@ -18683,8 +18683,8 @@ a .h_head:hover {
   background: transparent;
 }
 .pp_contact_form .btn_scroll:hover {
-  background: #5f54fd;
-  border-color: #5f54fd;
+  background: #87A922;
+  border-color: #87A922;
   -webkit-box-shadow: 0px 20px 50px 0px rgba(14, 6, 134, 0.2);
   box-shadow: 0px 20px 50px 0px rgba(14, 6, 134, 0.2);
 }
@@ -18695,7 +18695,7 @@ a .h_head:hover {
   min-height: 650px;
   display: flex;
   align-items: center;
-  background-image: linear-gradient(-50deg, rgb(34, 24, 110) 0%, rgb(14, 4, 75) 100%);
+  background: #87A922;
   overflow: hidden;
   position: relative;
 }
@@ -18752,7 +18752,7 @@ a .h_head:hover {
 }
 .h_analytices_features_area .er_btn {
   margin-top: 20px;
-  border-color: #4e78f4;
+  border-color: #87A922;
 }
 
 .h_analytices_features_item {
@@ -18837,14 +18837,14 @@ a .h_head:hover {
 }
 .h_analytices_features_item .h_analytices_content ul li span {
   font-weight: 500;
-  color: #2c2c51;
+  color: #87A922;
 }
 .h_analytices_features_item .h_analytices_content ul li:before {
   content: "";
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  background: #4e78f4;
+  background: #87A922;
   position: absolute;
   left: 0;
   top: 10px;
@@ -18856,7 +18856,7 @@ a .h_head:hover {
 /*============ h_analytices_features_area css ============*/
 /*============ h_action_area_three css ============*/
 .h_action_area_three {
-  background-color: rgb(14, 4, 75);
+  background-color: #87A922;
   padding: 100px 0px;
   position: relative;
   z-index: 1;
@@ -18896,7 +18896,7 @@ a .h_head:hover {
   margin-bottom: 25px;
 }
 .h_action_area_three .h_action_content p {
-  color: #a3a3b7;
+  color: #fff;
 }
 .h_action_area_three .h_action_content .author h6 {
   color: #fff;
@@ -18905,7 +18905,7 @@ a .h_head:hover {
   margin-bottom: 8px;
 }
 .h_action_area_three .h_action_content .author p {
-  color: #7b7b93;
+  color: #fff;
   font-weight: 400;
   margin-bottom: 0;
 }
@@ -18951,7 +18951,7 @@ a .h_head:hover {
   text-align: center;
   margin: 0 auto;
   font-size: 30px;
-  color: #4e78f4;
+  color: #87A922;
   font-weight: 500;
   line-height: 80px;
 }
@@ -24992,30 +24992,30 @@ a .h_head:hover {
   padding: 120px 0px 70px;
 }
 .footer_area_four .footer_top .f_widget.about-widget .f_list li a:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 .footer_area_four .footer_top .f_widget.about-widget .f_list li a:hover:before {
-  background: #5e2ced;
+  background: #87A922;
 }
 .footer_area_four .footer_top .f_widget .widget-wrap p a:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 .footer_area_four .footer_bottom p a {
-  color: #5e2ced;
+  color: #87A922;
 }
 .footer_area_four .footer_bottom a:hover {
-  color: #5e2ced;
+  color: #87A922;
 }
 
 /*======= footer_area_five css ========*/
 .footer_area_five .footer_top .f_widget.about-widget .f_list li a:hover {
-  color: #3d64f4;
+  color: #87A922;
 }
 .footer_area_five .footer_top .f_widget.about-widget .f_list li a:hover:before {
-  background: #3d64f4;
+  background: #87A922;
 }
 .footer_area_five .footer_top .f_widget .widget-wrap p a:hover {
-  color: #3d64f4;
+  color: #87A922;
 }
 .footer_area_five .footer_bottom p a {
   color: #3d64f4;
